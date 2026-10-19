@@ -53,6 +53,12 @@ These integrations run through Classfix; you do not need to edit the other addon
 - No required addon dependencies.
 - ElvUI and Shadowed Unit Frames are optional.
 
+## More addons by SuttonX
+
+- [SetupSwap](https://github.com/SuttonX/SetupSwap) — Switch addon sets and UI layouts between your desktop and controller setups.
+- [ConsolePortLK-Enhanced](https://github.com/SuttonX/ConsolePortLK-Enhanced) — Controller support for WotLK with improved action bars, satellites, and cooldown displays.
+- [FormFreedom](https://github.com/SuttonX/FormFreedom) — Automatically cancel druid forms when needed for supported interactions and actions.
+
 ## Credits and license
 
 Derived from [Class Colors by Phanx](https://github.com/phanx-wow/ClassColors), copyright 2009–2018. The original license is included in [LICENSE.txt](LICENSE.txt). Classfix is an unofficial derivative with its own name, as required by that license.
