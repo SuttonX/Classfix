@@ -8,8 +8,8 @@ Classfix gives Paladins a gold class color and Rogues a neutral gray, while keep
 
 | Class | Default color |
 | --- | --- |
-| Paladin | Gold — `#F5B000` |
-| Rogue | Gray — `#808588` |
+| Paladin | ![Gold swatch](assets/paladin-color.svg) Gold — `#F5B000` |
+| Rogue | ![Gray swatch](assets/rogue-color.svg) Gray — `#808588` |
 | All other classes | Original Blizzard Wrath colors |
 
 ## Download and install
