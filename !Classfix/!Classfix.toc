@@ -1,8 +1,12 @@
 ## Interface: 30300
 ## Title: Classfix
-## Notes: Customize shared class colors for Wrath 3.3.5a.
+## Notes: Custom class colors with gold Paladins, gray Rogues, and per-class customization.
+## Author: SuttonX
 ## Version: 1.0.0
 ## SavedVariables: ClassfixDB
+## X-Website: https://github.com/SuttonX/Classfix
+## X-Credits: Based on Class Colors by Phanx.
+## X-License: See LICENSE.txt
 
 Compatibility.lua
 ElvUI.lua
