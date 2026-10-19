@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Classfix
+## Notes: Customize shared class colors for Wrath 3.3.5a.
+## Version: 1.0.0
+## SavedVariables: ClassfixDB
+
+Compatibility.lua
+ElvUI.lua
+ShadowUF.lua
+Localization.lua
+Classfix.lua
+Defaults.lua

@@ -1,0 +1,9 @@
+local ADDON, ns = ...
+local L = {}
+ns.L = L
+L.TITLE = GetAddOnMetadata(ADDON, "Title")
+L.NOTES = "Customize class colors across the UI and supported addons."
+L.NOTES_DESC = "Choose any color for each class. /classfix default restores Classfix defaults; /classfix blizzard restores original Wrath colors. Set an exact hex with /classfix set rogue 808588. Reload to refresh addons that cache colors."
+L.RESET_DESC = "Restore Classfix defaults."
+for token, name in pairs(LOCALIZED_CLASS_NAMES_MALE) do L[token] = name end
+setmetatable(L, {__index = function(_,key) return tostring(key) end})
